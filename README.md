@@ -1,8 +1,8 @@
 # sales_data_analysis
 Analysis of sales data of an electronic store to get some useful insights through visualisation using pandas, plotly,seaborn and matplotlib.
 ### Problem statements
-* In which months, we witnessed maximum sales orders and revenue
-* How price of the product is affecting its sales? Will track relation between price and sale of the product
+* Which months witnessed maximum sales orders and revenue?
+* How price of the product is affecting its sales? Will track relation between price and sale of the product?
 * Which product or products drives maximum revenue to the company?
 * Which City drives maximum revenue to the company?
 * Which city witnessed maximum number of orders?
